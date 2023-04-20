@@ -35,10 +35,10 @@ Public
 
 ```
 
-Auth
-  callback
-  register
-
+  Auth
+    callback
+    register
+    forgotPassword
 
 ```
 Authorised
